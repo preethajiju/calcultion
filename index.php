@@ -12,19 +12,19 @@
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="index.html">Home</a>
+            <a class="nav-link" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="add.html">Addition</a>
+            <a class="nav-link" href="add.php">Addition</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="sub.html">Subtraction</a>
+            <a class="nav-link" href="sub.php">Subtraction</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="pdt.html">Multiplication</a>
+            <a class="nav-link" href="pdt.php">Multiplication</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="divi.html">Division</a>
+            <a class="nav-link" href="divi.php">Division</a>
           </li>
         </ul>
       </nav>
